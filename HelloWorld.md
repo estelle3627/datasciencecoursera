@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-this is a sample 
+## This is a markdown file 
